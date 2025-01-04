@@ -10,10 +10,6 @@
   font-family: 'RomanSD';
   src: url('Roman-SD.ttf') format('truetype');
 }
-@font-face {
-  font-family: 'AUGUSTUS';
-  src: url('AUGUSTUS.ttf') format('truetype');
-}
 @keyframes slide-item-collections {
   0%,100% {left:0}
   50% {left:-100px}
@@ -127,10 +123,10 @@ artitem {
   color: #fff;
 }
 artitem h1 {
-  font-family: 'AUGUSTUS';
+  font-family: 'RomanSD';
 }
 artitem p {
-  font-family: 'RomanSD';
+  font-family: Georgia;
   font-weight: 500;
   line-height: 1.3;
 }
