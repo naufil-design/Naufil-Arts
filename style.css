@@ -3,8 +3,8 @@
 }
 
 @font-face {
-  font-family: 'OldEnglish';
-  src: url('OldEnglishFive.ttf') format('truetype');
+  font-family: 'DiplomaRegular';
+  src: url('Diploma_Regular.ttf') format('truetype');
 }
 @font-face {
   font-family: 'RomanSD';
@@ -75,7 +75,7 @@ body {
 .title, .title1 {
   font-size: 30pt;
   color: #fff;
-  font-family: 'OldEnglish';
+  font-family: 'DiplomaRegular';
   font-weight: 200;
   line-height: 1.2;
   margin-left: 10px;
