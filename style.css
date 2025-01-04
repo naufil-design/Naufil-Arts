@@ -6,6 +6,14 @@
   font-family: 'OldEnglish';
   src: url('OldEnglishFive.ttf') format('truetype');
 }
+@font-face {
+  font-family: 'RomanSD';
+  src: url('Roman-SD.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'AUGUSTUS';
+  src: url('AUGUSTUS.ttf') format('truetype');
+}
 @keyframes slide-item-collections {
   0%,100% {left:0}
   50% {left:-100px}
@@ -118,7 +126,11 @@ artitem {
   padding-top: 30px;
   color: #fff;
 }
+artitem h1 {
+  font-family: 'AUGUSTUS';
+}
 artitem p {
+  font-family: 'RomanSD';
   font-weight: 500;
   line-height: 1.3;
 }
