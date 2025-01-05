@@ -80,7 +80,7 @@ body {
   line-height: 1.2;
   margin-left: 10px;
   transform: translateY(-20px);
-  margin-block: 16px;
+  margin-block: 15px;
 }
 @media (min-width: 768px) {
   .title, .title1 {
