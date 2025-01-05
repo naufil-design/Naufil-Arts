@@ -73,7 +73,7 @@ body {
   height: 100%;
 }
 .title, .title1 {
-  font-size: 40pt;
+  font-size: 35pt;
   color: #fff;
   font-family: 'Diploma';
   font-weight: 200;
@@ -84,7 +84,7 @@ body {
 }
 @media (min-width: 768px) {
   .title, .title1 {
-    font-size: 60pt;
+    font-size: 55pt;
   }
 }
 .title1 {
