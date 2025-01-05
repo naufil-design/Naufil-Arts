@@ -3,7 +3,7 @@
 }
 
 @font-face {
-  font-family: 'DiplomaRegular';
+  font-family: 'Diploma';
   src: url('DiplomaRegular.ttf') format('truetype');
 }
 @font-face {
@@ -75,7 +75,7 @@ body {
 .title, .title1 {
   font-size: 30pt;
   color: #fff;
-  font-family: 'DiplomaRegular';
+  font-family: 'Diploma';
   font-weight: 200;
   line-height: 1.2;
   margin-left: 10px;
