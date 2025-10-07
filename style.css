@@ -82,6 +82,7 @@ body {
   margin-left: 10px;
   transform: translateY(-20px);
   margin-block: 15px;
+  text-align: center;
 }
 @media (min-width: 768px) {
   .title, .title1 {
